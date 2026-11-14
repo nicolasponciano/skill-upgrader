@@ -13,7 +13,7 @@ PowerShell:
 
 ```powershell
 New-Item -ItemType Directory -Force "$HOME/.config/opencode/skills/skill-upgrader" | Out-Null
-Copy-Item .SKILL.md "$HOME/.config/opencode/skills/skill-upgrader/SKILL.md" -Force
+Copy-Item ./SKILL.md "$HOME/.config/opencode/skills/skill-upgrader/SKILL.md" -Force
 ```
 
 macOS/Linux:
