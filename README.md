@@ -4,6 +4,13 @@ Skill global para OpenCode que audita skills registradas, verifica origem e vers
 
 ## Instalação
 
+Clone o repositório e entre na pasta:
+
+```sh
+git clone https://github.com/nicolasponciano/skill-upgrader.git
+cd skill-upgrader
+```
+
 Copie `SKILL.md` para a pasta global de skills:
 
 - Windows PowerShell: `$HOME/.config/opencode/skills/skill-upgrader/SKILL.md`
